@@ -1,0 +1,1004 @@
+{
+  "./media/upload/YQzALBv8k8ak9e6a94d7ef005c83cc23ceebe5a327be.jpg": [
+    {
+      "box": [
+        15.94,
+        204.74,
+        306.91,
+        315.44
+      ],
+      "score": 0.88,
+      "cap": "a large group of people"
+    },
+    {
+      "box": [
+        138.76,
+        254.06,
+        303.86,
+        317.65
+      ],
+      "score": 0.86,
+      "cap": "a red and white sign"
+    },
+    {
+      "box": [
+        151.01,
+        122.96,
+        216.12,
+        153.41
+      ],
+      "score": 0.81,
+      "cap": "a white boat in the water"
+    },
+    {
+      "box": [
+        11.48,
+        74.2,
+        315.06,
+        308.51
+      ],
+      "score": 0.81,
+      "cap": "a large area of snow"
+    },
+    {
+      "box": [
+        10.81,
+        6.58,
+        305.93,
+        155.1
+      ],
+      "score": 0.79,
+      "cap": "a row of buildings"
+    },
+    {
+      "box": [
+        184.0,
+        141.35,
+        313.24,
+        227.82
+      ],
+      "score": 0.72,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        77.99,
+        154.83,
+        264.35,
+        300.89
+      ],
+      "score": 0.68,
+      "cap": "a large boat in the water"
+    },
+    {
+      "box": [
+        25.53,
+        6.13,
+        69.37,
+        117.66
+      ],
+      "score": 0.67,
+      "cap": "a wooden door"
+    },
+    {
+      "box": [
+        228.24,
+        56.05,
+        288.99,
+        138.47
+      ],
+      "score": 0.63,
+      "cap": "a white building"
+    },
+    {
+      "box": [
+        0.97,
+        62.2,
+        36.72,
+        123.08
+      ],
+      "score": 0.62,
+      "cap": "a wooden fence"
+    },
+    {
+      "box": [
+        8.4,
+        218.62,
+        139.35,
+        310.05
+      ],
+      "score": 0.58,
+      "cap": "a group of people standing on the sidewalk"
+    },
+    {
+      "box": [
+        62.81,
+        10.27,
+        105.96,
+        119.66
+      ],
+      "score": 0.53,
+      "cap": "a tall building in distance"
+    },
+    {
+      "box": [
+        20.33,
+        81.84,
+        295.16,
+        160.4
+      ],
+      "score": 0.52,
+      "cap": "a row of buildings"
+    },
+    {
+      "box": [
+        4.5,
+        261.96,
+        146.03,
+        316.25
+      ],
+      "score": 0.51,
+      "cap": "a red and white train"
+    },
+    {
+      "box": [
+        49.86,
+        10.86,
+        240.58,
+        118.49
+      ],
+      "score": 0.5,
+      "cap": "buildings in the background"
+    },
+    {
+      "box": [
+        5.48,
+        134.04,
+        203.72,
+        310.0
+      ],
+      "score": 0.44,
+      "cap": "a large body of water"
+    },
+    {
+      "box": [
+        70.23,
+        128.48,
+        303.41,
+        233.93
+      ],
+      "score": 0.43,
+      "cap": "a large wooden pier"
+    },
+    {
+      "box": [
+        58.93,
+        3.67,
+        150.76,
+        123.34
+      ],
+      "score": 0.41,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        221.52,
+        8.85,
+        296.84,
+        144.27
+      ],
+      "score": 0.39,
+      "cap": "a tall building in the background"
+    },
+    {
+      "box": [
+        21.32,
+        5.54,
+        101.18,
+        144.15
+      ],
+      "score": 0.38,
+      "cap": "a tall building in the background"
+    },
+    {
+      "box": [
+        108.68,
+        23.03,
+        146.04,
+        52.0
+      ],
+      "score": 0.37,
+      "cap": "a window on a building"
+    },
+    {
+      "box": [
+        112.39,
+        270.45,
+        143.42,
+        295.79
+      ],
+      "score": 0.37,
+      "cap": "red and white cooler"
+    },
+    {
+      "box": [
+        66.4,
+        142.49,
+        224.76,
+        254.93
+      ],
+      "score": 0.36,
+      "cap": "a boat in the water"
+    },
+    {
+      "box": [
+        6.83,
+        168.0,
+        105.92,
+        298.02
+      ],
+      "score": 0.36,
+      "cap": "a red and white fence"
+    },
+    {
+      "box": [
+        188.8,
+        151.66,
+        263.17,
+        220.28
+      ],
+      "score": 0.36,
+      "cap": "a red and white boat"
+    },
+    {
+      "box": [
+        106.22,
+        163.1,
+        218.36,
+        228.11
+      ],
+      "score": 0.35,
+      "cap": "a metal railing"
+    },
+    {
+      "box": [
+        112.42,
+        224.98,
+        242.98,
+        317.33
+      ],
+      "score": 0.33,
+      "cap": "a red and white boat"
+    },
+    {
+      "box": [
+        101.88,
+        266.79,
+        139.24,
+        310.92
+      ],
+      "score": 0.33,
+      "cap": "a red and white boat"
+    },
+    {
+      "box": [
+        180.62,
+        224.34,
+        316.39,
+        313.13
+      ],
+      "score": 0.33,
+      "cap": "a paved road"
+    },
+    {
+      "box": [
+        237.41,
+        276.29,
+        271.27,
+        296.03
+      ],
+      "score": 0.32,
+      "cap": "a blue and white bag"
+    },
+    {
+      "box": [
+        120.31,
+        106.67,
+        217.9,
+        158.86
+      ],
+      "score": 0.31,
+      "cap": "a white boat in the water"
+    },
+    {
+      "box": [
+        199.69,
+        158.73,
+        255.54,
+        190.14
+      ],
+      "score": 0.3,
+      "cap": "red and white sign on building"
+    },
+    {
+      "box": [
+        146.12,
+        267.47,
+        245.32,
+        315.08
+      ],
+      "score": 0.29,
+      "cap": "a red and white building"
+    },
+    {
+      "box": [
+        92.46,
+        15.24,
+        174.0,
+        175.03
+      ],
+      "score": 0.27,
+      "cap": "a tall building in the background"
+    },
+    {
+      "box": [
+        86.81,
+        35.9,
+        314.97,
+        232.22
+      ],
+      "score": 0.26,
+      "cap": "a large group of buildings"
+    },
+    {
+      "box": [
+        10.21,
+        283.58,
+        130.17,
+        318.19
+      ],
+      "score": 0.26,
+      "cap": "a dirt path"
+    },
+    {
+      "box": [
+        224.37,
+        162.4,
+        315.96,
+        233.29
+      ],
+      "score": 0.26,
+      "cap": "a fence in the background"
+    },
+    {
+      "box": [
+        12.27,
+        108.38,
+        225.82,
+        184.81
+      ],
+      "score": 0.26,
+      "cap": "a bridge in the background"
+    },
+    {
+      "box": [
+        104.93,
+        15.58,
+        157.47,
+        78.62
+      ],
+      "score": 0.25,
+      "cap": "a tall building in distance"
+    },
+    {
+      "box": [
+        111.38,
+        42.87,
+        154.45,
+        173.05
+      ],
+      "score": 0.25,
+      "cap": "a tall building in the background"
+    },
+    {
+      "box": [
+        151.15,
+        0.39,
+        179.42,
+        46.65
+      ],
+      "score": 0.25,
+      "cap": "a window on a building"
+    },
+    {
+      "box": [
+        32.82,
+        237.59,
+        120.61,
+        305.18
+      ],
+      "score": 0.25,
+      "cap": "a row of green bushes"
+    },
+    {
+      "box": [
+        6.09,
+        113.3,
+        107.99,
+        168.08
+      ],
+      "score": 0.25,
+      "cap": "a white house"
+    },
+    {
+      "box": [
+        5.99,
+        152.93,
+        97.05,
+        203.94
+      ],
+      "score": 0.24,
+      "cap": "a row of houses"
+    },
+    {
+      "box": [
+        11.76,
+        177.0,
+        79.94,
+        269.28
+      ],
+      "score": 0.24,
+      "cap": "a red and white building"
+    },
+    {
+      "box": [
+        30.23,
+        209.47,
+        115.9,
+        285.92
+      ],
+      "score": 0.23,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        135.99,
+        8.23,
+        222.4,
+        145.91
+      ],
+      "score": 0.23,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        1.7,
+        128.27,
+        34.48,
+        161.08
+      ],
+      "score": 0.23,
+      "cap": "a white and black sign"
+    },
+    {
+      "box": [
+        90.92,
+        252.13,
+        154.05,
+        308.25
+      ],
+      "score": 0.23,
+      "cap": "a red and white boat"
+    },
+    {
+      "box": [
+        211.38,
+        214.22,
+        318.05,
+        249.89
+      ],
+      "score": 0.22,
+      "cap": "green grass on the ground"
+    },
+    {
+      "box": [
+        153.73,
+        190.01,
+        227.61,
+        236.0
+      ],
+      "score": 0.22,
+      "cap": "a black boat"
+    },
+    {
+      "box": [
+        231.96,
+        208.5,
+        279.14,
+        227.51
+      ],
+      "score": 0.22,
+      "cap": "a fence in the background"
+    },
+    {
+      "box": [
+        104.64,
+        175.44,
+        209.78,
+        310.49
+      ],
+      "score": 0.22,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        251.31,
+        151.98,
+        316.32,
+        215.5
+      ],
+      "score": 0.22,
+      "cap": "a red and white building"
+    },
+    {
+      "box": [
+        23.21,
+        4.81,
+        259.14,
+        69.79
+      ],
+      "score": 0.21,
+      "cap": "buildings in the background"
+    },
+    {
+      "box": [
+        229.17,
+        223.22,
+        312.13,
+        244.69
+      ],
+      "score": 0.21,
+      "cap": "green grass on the ground"
+    },
+    {
+      "box": [
+        174.73,
+        1.53,
+        271.59,
+        35.86
+      ],
+      "score": 0.2,
+      "cap": "a bright light in the background"
+    },
+    {
+      "box": [
+        201.19,
+        48.11,
+        310.8,
+        154.94
+      ],
+      "score": 0.2,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        199.18,
+        57.26,
+        236.53,
+        143.02
+      ],
+      "score": 0.2,
+      "cap": "a tall building in the background"
+    },
+    {
+      "box": [
+        150.27,
+        3.89,
+        190.78,
+        95.45
+      ],
+      "score": 0.2,
+      "cap": "a tall building in distance"
+    },
+    {
+      "box": [
+        135.91,
+        242.9,
+        261.13,
+        301.71
+      ],
+      "score": 0.2,
+      "cap": "a red and white boat"
+    },
+    {
+      "box": [
+        24.13,
+        83.32,
+        230.36,
+        244.64
+      ],
+      "score": 0.2,
+      "cap": "a group of people on a boat"
+    },
+    {
+      "box": [
+        155.99,
+        160.23,
+        240.65,
+        232.77
+      ],
+      "score": 0.19,
+      "cap": "a boat in the water"
+    },
+    {
+      "box": [
+        153.47,
+        2.24,
+        277.69,
+        62.6
+      ],
+      "score": 0.19,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        165.32,
+        203.36,
+        220.01,
+        229.22
+      ],
+      "score": 0.19,
+      "cap": "a black and white boat"
+    },
+    {
+      "box": [
+        12.97,
+        129.8,
+        209.29,
+        218.52
+      ],
+      "score": 0.19,
+      "cap": "a group of people on the beach"
+    },
+    {
+      "box": [
+        41.78,
+        115.25,
+        91.73,
+        156.1
+      ],
+      "score": 0.18,
+      "cap": "a fence in the background"
+    },
+    {
+      "box": [
+        102.66,
+        16.86,
+        150.43,
+        138.91
+      ],
+      "score": 0.18,
+      "cap": "a tall building in distance"
+    },
+    {
+      "box": [
+        14.31,
+        13.33,
+        156.94,
+        158.28
+      ],
+      "score": 0.18,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        94.28,
+        46.29,
+        303.35,
+        142.6
+      ],
+      "score": 0.17,
+      "cap": "buildings in the background"
+    },
+    {
+      "box": [
+        277.38,
+        48.43,
+        317.33,
+        150.36
+      ],
+      "score": 0.17,
+      "cap": "a red and white flower"
+    },
+    {
+      "box": [
+        66.39,
+        10.6,
+        103.13,
+        48.49
+      ],
+      "score": 0.17,
+      "cap": "a tree in a distance"
+    },
+    {
+      "box": [
+        39.67,
+        171.58,
+        80.11,
+        191.65
+      ],
+      "score": 0.17,
+      "cap": "red and white tent"
+    },
+    {
+      "box": [
+        3.67,
+        129.29,
+        100.0,
+        258.18
+      ],
+      "score": 0.16,
+      "cap": "a group of people standing on the beach"
+    },
+    {
+      "box": [
+        155.79,
+        146.26,
+        305.4,
+        295.07
+      ],
+      "score": 0.16,
+      "cap": "a paved road"
+    },
+    {
+      "box": [
+        95.47,
+        259.46,
+        131.84,
+        300.35
+      ],
+      "score": 0.16,
+      "cap": "a person in a red shirt"
+    },
+    {
+      "box": [
+        284.65,
+        264.98,
+        317.86,
+        313.12
+      ],
+      "score": 0.16,
+      "cap": "a white van parked on the side of the road"
+    },
+    {
+      "box": [
+        28.38,
+        2.68,
+        63.7,
+        40.59
+      ],
+      "score": 0.16,
+      "cap": "a window on a building"
+    },
+    {
+      "box": [
+        55.34,
+        42.09,
+        225.88,
+        167.89
+      ],
+      "score": 0.15,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        227.09,
+        224.9,
+        317.29,
+        261.32
+      ],
+      "score": 0.14,
+      "cap": "a patch of grass"
+    },
+    {
+      "box": [
+        132.94,
+        5.73,
+        276.72,
+        102.1
+      ],
+      "score": 0.14,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        80.88,
+        7.29,
+        187.47,
+        104.08
+      ],
+      "score": 0.14,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        182.78,
+        23.08,
+        211.96,
+        65.2
+      ],
+      "score": 0.14,
+      "cap": "a red and white sign"
+    },
+    {
+      "box": [
+        164.5,
+        223.13,
+        305.97,
+        272.18
+      ],
+      "score": 0.14,
+      "cap": "a paved road"
+    },
+    {
+      "box": [
+        184.11,
+        131.09,
+        312.17,
+        184.92
+      ],
+      "score": 0.13,
+      "cap": "a large group of boats"
+    },
+    {
+      "box": [
+        184.96,
+        20.87,
+        316.24,
+        203.37
+      ],
+      "score": 0.13,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        4.84,
+        47.85,
+        114.06,
+        173.77
+      ],
+      "score": 0.13,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        42.39,
+        265.59,
+        71.76,
+        286.15
+      ],
+      "score": 0.13,
+      "cap": "a green bottle of water"
+    },
+    {
+      "box": [
+        164.33,
+        177.13,
+        314.74,
+        254.05
+      ],
+      "score": 0.12,
+      "cap": "a fence in the background"
+    },
+    {
+      "box": [
+        62.78,
+        160.95,
+        183.08,
+        304.17
+      ],
+      "score": 0.12,
+      "cap": "a bridge over the water"
+    },
+    {
+      "box": [
+        68.85,
+        2.1,
+        97.72,
+        16.92
+      ],
+      "score": 0.12,
+      "cap": "the roof is white"
+    },
+    {
+      "box": [
+        6.01,
+        9.7,
+        64.65,
+        157.06
+      ],
+      "score": 0.12,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        130.78,
+        104.83,
+        309.04,
+        186.23
+      ],
+      "score": 0.12,
+      "cap": "a boat on the water"
+    },
+    {
+      "box": [
+        96.97,
+        13.1,
+        221.2,
+        75.98
+      ],
+      "score": 0.12,
+      "cap": "windows on the building"
+    },
+    {
+      "box": [
+        123.3,
+        116.36,
+        226.94,
+        242.26
+      ],
+      "score": 0.11,
+      "cap": "a boat in the water"
+    },
+    {
+      "box": [
+        32.83,
+        113.52,
+        175.39,
+        167.66
+      ],
+      "score": 0.11,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        6.51,
+        133.16,
+        117.55,
+        189.37
+      ],
+      "score": 0.11,
+      "cap": "a group of people standing on the beach"
+    },
+    {
+      "box": [
+        86.51,
+        81.44,
+        159.0,
+        168.02
+      ],
+      "score": 0.11,
+      "cap": "a building in the background"
+    },
+    {
+      "box": [
+        148.4,
+        186.8,
+        257.28,
+        313.79
+      ],
+      "score": 0.11,
+      "cap": "a red and white building"
+    },
+    {
+      "box": [
+        188.21,
+        2.73,
+        250.09,
+        28.83
+      ],
+      "score": 0.11,
+      "cap": "the sky is white"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div align="center" style="margin:60px">
+        <p style="font-size:40px; font-weight:bold; font-family:Times New Roman; color:green">Image Caption</p>
+    </div>
+    
+    <div align="center" style="margin:120; font-size:15px">
+        <div>
+
+            <form method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                <input type="file" name="img">
+                <button type="submit">submit</button>
+            </form>
+
+        </div>
+        <div>
+            <p>{{text1}}</p>
+        </div>
+        <div>
+            <img src='{{ img_url }}' />
+        </div>
+    <!--    <div>-->
+    <!--        {% for img in imgs %}-->
+    <!--            <img src='{{ img.img.url }}' />-->
+    <!--        {% endfor %}-->
+    <!--    </div>-->
+        <div>
+            <p>{{text2}}</p>
+            <!-- 结果路径-->
+            <img src='{{ caption }}' />
+        </div>
+    </div>
+
+
+</body>
+</html>

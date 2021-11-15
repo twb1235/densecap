@@ -1,0 +1,163 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 27, 2021 - 13:09:14
+Django version 2.2, using settings 'imgcap_django.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[27/Oct/2021 13:10:27] "GET /imgcap HTTP/1.1" 200 998
+[27/Oct/2021 13:10:37] "GET /imgcap HTTP/1.1" 200 998
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 27, 2021 - 13:10:22
+Django version 2.2, using settings 'imgcap_django.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+./media/upload/1_0sbku0k.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.68it/s]
+/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py:208: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig = plt.gcf()
+[27/Oct/2021 13:10:44] "POST /imgcap HTTP/1.1" 200 1104
+[27/Oct/2021 13:10:44] "GET /media/upload/1_0sbku0k.jpg HTTP/1.1" 200 15922
+[27/Oct/2021 13:10:44] "GET /media/result/1_0sbku0k.jpg HTTP/1.1" 200 257094
+dict_keys(['./media/upload/1_0sbku0k.jpg'])
+存在
+There is a Linux
+./media/upload/2021102609190992448_tnRwMiI.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.80it/s]
+Internal Server Error: /imgcap
+Traceback (most recent call last):
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/wbb/source/imgcap_django/imgapp/views.py", line 36, in show
+    s=describe.caption(img_url)
+  File "/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py", line 209, in caption
+    fig.set_size_inches(18.5, 10.5)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/figure.py", line 2637, in set_size_inches
+    manager.resize(*(size * self.dpi / dpi_ratio).astype(int))
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/backends/_backend_tk.py", line 448, in resize
+    self.canvas._tkcanvas.configure(width=width, height=height)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1485, in configure
+    return self._configure('configure', cnf, kw)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1476, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+RuntimeError: main thread is not in main loop
+[27/Oct/2021 13:10:50] "POST /imgcap HTTP/1.1" 500 99629
+Watching for file changes with StatReloader
+[27/Oct/2021 13:12:09] "GET /imgcap HTTP/1.1" 200 998
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 27, 2021 - 13:11:56
+Django version 2.2, using settings 'imgcap_django.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+./media/upload/2021102609190992448_ZlfVLnS.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.30it/s]
+/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py:208: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig = plt.gcf()
+[27/Oct/2021 13:12:26] "POST /imgcap HTTP/1.1" 200 1140
+[27/Oct/2021 13:12:26] "GET /media/upload/2021102609190992448_ZlfVLnS.jpg HTTP/1.1" 200 12962
+[27/Oct/2021 13:12:26] "GET /media/result/2021102609190992448_ZlfVLnS.jpg HTTP/1.1" 200 250810
+[27/Oct/2021 13:12:33] "GET /imgcap HTTP/1.1" 200 998
+[27/Oct/2021 13:12:37] "GET /imgcap HTTP/1.1" 200 998
+dict_keys(['./media/upload/2021102609190992448_ZlfVLnS.jpg'])
+存在
+There is a Windows
+./media/upload/srchttp___bpic.588ku.com_element_origin_min_pic_16_10_29_2ac8e99273bc079e40a8dc07_zsOVXeG.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 14.17it/s]
+Internal Server Error: /imgcap
+Traceback (most recent call last):
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/wbb/source/imgcap_django/imgapp/views.py", line 36, in show
+    s=describe.caption(img_url)
+  File "/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py", line 209, in caption
+    fig.set_size_inches(18.5, 10.5)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/figure.py", line 2637, in set_size_inches
+    manager.resize(*(size * self.dpi / dpi_ratio).astype(int))
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/backends/_backend_tk.py", line 448, in resize
+    self.canvas._tkcanvas.configure(width=width, height=height)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1485, in configure
+    return self._configure('configure', cnf, kw)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1476, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+RuntimeError: main thread is not in main loop
+[27/Oct/2021 13:13:03] "POST /imgcap HTTP/1.1" 500 99884
+[27/Oct/2021 13:13:23] "GET /imgcap HTTP/1.1" 200 998
+Watching for file changes with StatReloader
+[27/Oct/2021 13:13:42] "GET /imgcap HTTP/1.1" 200 998
+[27/Oct/2021 13:13:47] "GET /imgcap HTTP/1.1" 200 998
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 27, 2021 - 13:13:35
+Django version 2.2, using settings 'imgcap_django.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+./media/upload/image_VkALKxT.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.24it/s]
+/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py:208: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig = plt.gcf()
+[27/Oct/2021 13:13:57] "POST /imgcap HTTP/1.1" 200 1112
+[27/Oct/2021 13:13:58] "GET /media/upload/image_VkALKxT.jpg HTTP/1.1" 200 13796
+[27/Oct/2021 13:13:58] "GET /media/result/image_VkALKxT.jpg HTTP/1.1" 200 237240
+dict_keys(['./media/upload/image_VkALKxT.jpg'])
+./media/upload/srchttp___bpic.588ku.com_element_origin_min_pic_16_10_29_2ac8e99273bc079e40a8dc07_3KU8BK3.jpg
+存在
+There is a Windows
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 15.32it/s]
+Internal Server Error: /imgcap
+Traceback (most recent call last):
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/wbb/source/imgcap_django/imgapp/views.py", line 36, in show
+    s=describe.caption(img_url)
+  File "/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py", line 209, in caption
+    fig.set_size_inches(18.5, 10.5)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/figure.py", line 2637, in set_size_inches
+    manager.resize(*(size * self.dpi / dpi_ratio).astype(int))
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/site-packages/matplotlib/backends/_backend_tk.py", line 448, in resize
+    self.canvas._tkcanvas.configure(width=width, height=height)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1485, in configure
+    return self._configure('configure', cnf, kw)
+  File "/home/wbb/anaconda3/envs/openmmlab/lib/python3.7/tkinter/__init__.py", line 1476, in _configure
+    self.tk.call(_flatten((self._w, cmd)) + self._options(cnf))
+RuntimeError: main thread is not in main loop
+[27/Oct/2021 13:14:00] "POST /imgcap HTTP/1.1" 500 99884
+Watching for file changes with StatReloader
+[27/Oct/2021 13:15:11] "GET /imgcap HTTP/1.1" 200 998
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 27, 2021 - 13:14:45
+Django version 2.2, using settings 'imgcap_django.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+./media/upload/2021102609190992448_qnyeyBg.jpg
+  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:00<00:00, 13.46it/s]
+/home/wbb/source/imgcap_django/imgapp/algrithm_pkg/describe.py:208: UserWarning: Starting a Matplotlib GUI outside of the main thread will likely fail.
+  fig = plt.gcf()
+[27/Oct/2021 13:15:29] "POST /imgcap HTTP/1.1" 200 1140
+[27/Oct/2021 13:15:29] "GET /media/upload/2021102609190992448_qnyeyBg.jpg HTTP/1.1" 200 12962
+[27/Oct/2021 13:15:29] "GET /media/result/2021102609190992448_qnyeyBg.jpg HTTP/1.1" 200 250810
+dict_keys(['./media/upload/2021102609190992448_qnyeyBg.jpg'])
+存在
+There is a Windows
